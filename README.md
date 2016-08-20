@@ -1,5 +1,7 @@
 # Contagious disruptions and complexity traps in economic development
 
+[![DOI](https://zenodo.org/badge/23976/cbrummitt/Contagious_disruptions_complexity_trap_economic_development.svg)](https://zenodo.org/badge/latestdoi/23976/cbrummitt/Contagious_disruptions_complexity_trap_economic_development)
+
 This repository contains the code used to produce the figures and results in the paper
 
 > Charles D. Brummitt , Kenan Huremovic, Paolo Pin, Matthew H. Bonds, and Fernando Vega-Redondo. "Contagious disruptions and complexity traps in economic development". Working paper, 2016.
