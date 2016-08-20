@@ -1,0 +1,478 @@
+Dataset[{<|"Economy" -> Entity["Country", "Aruba"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Andorra"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Afghanistan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[46., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Angola"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[66.4, "Percent"]|>, <|"Economy" -> Entity["Country", "Albania"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "UnitedArabEmirates"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[11.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Argentina"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[11.3, "Percent"]|>, <|"Economy" -> Entity["Country", "Armenia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "AmericanSamoa"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "AntiguaBarbuda"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Australia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Austria"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Azerbaijan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.6, "Percent"]|>, <|"Economy" -> Entity["Country", "Burundi"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[60.3, "Percent"]|>, <|"Economy" -> Entity["Country", "Belgium"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[7., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Benin"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[55.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "BurkinaFaso"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[58.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Bangladesh"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[31.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Bulgaria"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Bahrain"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.5, "Percent"]|>, <|"Economy" -> Entity["Country", "Bahamas"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[20.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "BosniaHerzegovina"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Belarus"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Belize"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[19.2, "Percent"]|>, <|"Economy" -> Entity["Country", "Bermuda"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Bolivia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[28.1, "Percent"]|>, <|"Economy" -> Entity["Country", "Brazil"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[13.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Barbados"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.9, "Percent"]|>, <|"Economy" -> Entity["Country", "Brunei"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[9.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Bhutan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[24.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Botswana"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[54., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "CentralAfricanRepublic"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[73., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Canada"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Switzerland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Chile"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[8., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "China"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "IvoryCoast"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[60.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Cameroon"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[60.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "RepublicCongo"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[61.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Colombia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[12.6, "Percent"]|>, <|"Economy" -> Entity["Country", "Comoros"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[51.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "CapeVerde"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[22.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "CostaRica"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Cuba"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Curacao"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "CaymanIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Cyprus"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "CzechRepublic"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Germany"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Djibouti"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[54.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Dominica"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Denmark"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "DominicanRepublic"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[16.5, "Percent"]|>, <|"Economy" -> Entity["Country", "Algeria"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[14.5, "Percent"]|>, <|"Economy" -> Entity["Country", "Ecuador"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[17.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Egypt"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.7, "Percent"]|>, <|"Economy" -> Entity["Country", "Eritrea"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[51.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Spain"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Estonia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Ethiopia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[59.5, "Percent"]|>, <|"Economy" -> Entity["Country", "Finland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[1.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Fiji"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[12.3, "Percent"]|>, <|"Economy" -> Entity["Country", "France"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "FaroeIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Micronesia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Gabon"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[56., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "UnitedKingdom"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[7.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Georgia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Ghana"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[50.7, "Percent"]|>, <|"Economy" -> Entity["Country", "Guinea"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[61., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Gambia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[59.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "GuineaBissau"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[64.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "EquatorialGuinea"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[58.7, "Percent"]|>, <|"Economy" -> Entity["Country", "Greece"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Grenada"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Greenland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Guatemala"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[34.4, "Percent"]|>, <|"Economy" -> Entity["Country", "Guam"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Guyana"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[17.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Honduras"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[23.4, "Percent"]|>, <|"Economy" -> Entity["Country", "Croatia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[1.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Haiti"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[42.5, "Percent"]|>, <|"Economy" -> Entity["Country", "Hungary"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[1.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Indonesia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[22., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "IsleOfMan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "India"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[27.9, "Percent"]|>, <|"Economy" -> Entity["Country", "Ireland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Iran"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[9.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Iraq"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[19.1, "Percent"]|>, <|"Economy" -> Entity["Country", "Iceland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Israel"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[9., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Italy"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Jamaica"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[13.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Jordan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[13.2, "Percent"]|>, <|"Economy" -> Entity["Country", "Japan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[13.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Kazakhstan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Kenya"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[63.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Kyrgyzstan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Cambodia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[37.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Kiribati"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "SaintKittsNevis"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "SouthKorea"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[8.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Kosovo"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Kuwait"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[16., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Laos"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[42.7, "Percent"]|>, <|"Economy" -> Entity["Country", "Lebanon"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Liberia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[58.2, "Percent"]|>, <|"Economy" -> Entity["Country", "Libya"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[9.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SaintLucia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Liechtenstein"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "SriLanka"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[11.1, "Percent"]|>, <|"Economy" -> Entity["Country", "Lesotho"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[64.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Lithuania"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Luxembourg"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Latvia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Macau"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Morocco"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[17.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Monaco"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Moldova"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Madagascar"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[50.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Maldives"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[11.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Mexico"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "MarshallIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Macedonia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[1.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Mali"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[60.3, "Percent"]|>, <|"Economy" -> Entity["Country", "Malta"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Myanmar"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[30.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Montenegro"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Mongolia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[11.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "NorthernMarianaIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Mozambique"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[66.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Mauritania"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[60.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Mauritius"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[8.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Malawi"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[65.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Malaysia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[16.3, "Percent"]|>, <|"Economy" -> Entity["Country", "Namibia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[46.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "NewCaledonia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Niger"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[67.6, "Percent"]|>, <|"Economy" -> Entity["Country", "Nigeria"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[65.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Nicaragua"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[15., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Netherlands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Norway"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[7.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Nepal"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[29.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "NewZealand"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[4.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Oman"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[17.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Pakistan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[38.3, "Percent"]|>, <|"Economy" -> Entity["Country", "Panama"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[17.2, "Percent"]|>, <|"Economy" -> Entity["Country", "Peru"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[23.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Philippines"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[25., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Palau"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "PapuaNewGuinea"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[48.2, "Percent"]|>, <|"Economy" -> Entity["Country", "Poland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "PuertoRico"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "NorthKorea"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[11., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Portugal"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[9.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Paraguay"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[15.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "FrenchPolynesia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Qatar"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[7.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Romania"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Russia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Rwanda"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[51.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SaudiArabia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[12.6, "Percent"]|>, <|"Economy" -> Entity["Country", "Sudan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[52.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Senegal"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[57.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Singapore"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[19., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SolomonIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[29.8, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SierraLeone"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[66.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "ElSalvador"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[14., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SanMarino"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Somalia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[69., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Serbia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[2., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SouthSudan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[63.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SaoTomePrincipe"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Suriname"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[16.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Slovakia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Slovenia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[3.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Sweden"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Swaziland"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[63.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SintMaarten"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Seychelles"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Syria"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[6.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "TurksCaicosIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Chad"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[72.1, "Percent"]|>, <|"Economy" -> Entity["Country", "Togo"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[61.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Thailand"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[18.4, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Tajikistan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[29.9, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Turkmenistan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[13.3, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "EastTimor"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[47., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Tonga"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "TrinidadTobago"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[8.6, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Tunisia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[10.8, "Percent"]|>, <|"Economy" -> Entity["Country", "Turkey"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[7.2, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Tuvalu"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Tanzania"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[57.9, "Percent"]|>, <|"Economy" -> Entity["Country", "Uganda"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[60., "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Ukraine"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Uruguay"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[7.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "UnitedStates"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[5.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Uzbekistan"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[13.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SaintVincentGrenadines"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Venezuela"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[11.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "UnitedStatesVirginIslands"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Vietnam"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[16.6, "Percent"]|>, <|"Economy" -> Entity["Country", "Vanuatu"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "WestBank"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "World"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Quantity[23.01000636331108, 
+     "Percent"]|>, <|"Economy" -> Entity["Country", "Samoa"], 
+   "PercentageDeathsByCommunicableDisease2012" -> Missing["Unknown"]|>, 
+  <|"Economy" -> Entity["Country", "Yemen"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[50.1, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "SouthAfrica"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[48.5, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "DemocraticRepublicCongo"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[66.9, "Percent"]|>, <|"Economy" -> Entity["Country", "Zambia"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[66.7, "Percent"]|>, 
+  <|"Economy" -> Entity["Country", "Zimbabwe"], 
+   "PercentageDeathsByCommunicableDisease2012" -> 
+    Quantity[61.5, "Percent"]|>}, TypeSystem`Vector[
+  TypeSystem`Struct[{"Economy", "PercentageDeathsByCommunicableDisease2012"}, 
+   {TypeSystem`Atom[Entity["Country"]], TypeSystem`Atom[
+     Quantity[1, "Percent"]]}], 212], <|"ID" -> 109736497491695|>]

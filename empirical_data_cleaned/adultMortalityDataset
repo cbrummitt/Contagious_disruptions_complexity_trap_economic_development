@@ -1,0 +1,617 @@
+Dataset[{<|"Economy" -> Entity["Country", "Afghanistan"], 
+   "AdultMortalityRateBothSexes2013" -> 121/500, 
+   "AdultMortalityRateFemale2013" -> 29/125, "AdultMortalityRateMale2013" -> 
+    63/250|>, <|"Economy" -> Entity["Country", "Albania"], 
+   "AdultMortalityRateBothSexes2013" -> 51/500, 
+   "AdultMortalityRateFemale2013" -> 17/200, "AdultMortalityRateMale2013" -> 
+    59/500|>, <|"Economy" -> Entity["Country", "Algeria"], 
+   "AdultMortalityRateBothSexes2013" -> 143/1000, 
+   "AdultMortalityRateFemale2013" -> 121/1000, 
+   "AdultMortalityRateMale2013" -> 41/250|>, 
+  <|"Economy" -> Entity["Country", "Andorra"], 
+   "AdultMortalityRateBothSexes2013" -> 67/1000, 
+   "AdultMortalityRateFemale2013" -> 43/1000, "AdultMortalityRateMale2013" -> 
+    9/100|>, <|"Economy" -> Entity["Country", "Angola"], 
+   "AdultMortalityRateBothSexes2013" -> 347/1000, 
+   "AdultMortalityRateFemale2013" -> 161/500, "AdultMortalityRateMale2013" -> 
+    93/250|>, <|"Economy" -> Entity["Country", "AntiguaBarbuda"], 
+   "AdultMortalityRateBothSexes2013" -> 173/1000, 
+   "AdultMortalityRateFemale2013" -> 29/200, "AdultMortalityRateMale2013" -> 
+    201/1000|>, <|"Economy" -> Entity["Country", "Argentina"], 
+   "AdultMortalityRateBothSexes2013" -> 117/1000, 
+   "AdultMortalityRateFemale2013" -> 83/1000, "AdultMortalityRateMale2013" -> 
+    151/1000|>, <|"Economy" -> Entity["Country", "Armenia"], 
+   "AdultMortalityRateBothSexes2013" -> 81/500, 
+   "AdultMortalityRateFemale2013" -> 19/200, "AdultMortalityRateMale2013" -> 
+    227/1000|>, <|"Economy" -> Entity["Country", "Australia"], 
+   "AdultMortalityRateBothSexes2013" -> 61/1000, 
+   "AdultMortalityRateFemale2013" -> 9/200, "AdultMortalityRateMale2013" -> 
+    39/500|>, <|"Economy" -> Entity["Country", "Austria"], 
+   "AdultMortalityRateBothSexes2013" -> 69/1000, 
+   "AdultMortalityRateFemale2013" -> 23/500, "AdultMortalityRateMale2013" -> 
+    91/1000|>, <|"Economy" -> Entity["Country", "Azerbaijan"], 
+   "AdultMortalityRateBothSexes2013" -> 31/250, 
+   "AdultMortalityRateFemale2013" -> 83/1000, "AdultMortalityRateMale2013" -> 
+    167/1000|>, <|"Economy" -> Entity["Country", "Bahamas"], 
+   "AdultMortalityRateBothSexes2013" -> 57/500, 
+   "AdultMortalityRateFemale2013" -> 11/125, "AdultMortalityRateMale2013" -> 
+    141/1000|>, <|"Economy" -> Entity["Country", "Bahrain"], 
+   "AdultMortalityRateBothSexes2013" -> 8/125, 
+   "AdultMortalityRateFemale2013" -> 27/500, "AdultMortalityRateMale2013" -> 
+    7/100|>, <|"Economy" -> Entity["Country", "Bangladesh"], 
+   "AdultMortalityRateBothSexes2013" -> 71/500, 
+   "AdultMortalityRateFemale2013" -> 63/500, "AdultMortalityRateMale2013" -> 
+    39/250|>, <|"Economy" -> Entity["Country", "Barbados"], 
+   "AdultMortalityRateBothSexes2013" -> 91/1000, 
+   "AdultMortalityRateFemale2013" -> 13/200, "AdultMortalityRateMale2013" -> 
+    29/250|>, <|"Economy" -> Entity["Country", "Belarus"], 
+   "AdultMortalityRateBothSexes2013" -> 199/1000, 
+   "AdultMortalityRateFemale2013" -> 1/10, "AdultMortalityRateMale2013" -> 
+    299/1000|>, <|"Economy" -> Entity["Country", "Belgium"], 
+   "AdultMortalityRateBothSexes2013" -> 39/500, 
+   "AdultMortalityRateFemale2013" -> 57/1000, "AdultMortalityRateMale2013" -> 
+    49/500|>, <|"Economy" -> Entity["Country", "Belize"], 
+   "AdultMortalityRateBothSexes2013" -> 14/125, 
+   "AdultMortalityRateFemale2013" -> 39/500, "AdultMortalityRateMale2013" -> 
+    29/200|>, <|"Economy" -> Entity["Country", "Benin"], 
+   "AdultMortalityRateBothSexes2013" -> 261/1000, 
+   "AdultMortalityRateFemale2013" -> 119/500, "AdultMortalityRateMale2013" -> 
+    71/250|>, <|"Economy" -> Entity["Country", "Bhutan"], 
+   "AdultMortalityRateBothSexes2013" -> 27/125, 
+   "AdultMortalityRateFemale2013" -> 53/250, "AdultMortalityRateMale2013" -> 
+    219/1000|>, <|"Economy" -> Entity["Country", "Bolivia"], 
+   "AdultMortalityRateBothSexes2013" -> 21/100, 
+   "AdultMortalityRateFemale2013" -> 43/250, "AdultMortalityRateMale2013" -> 
+    247/1000|>, <|"Economy" -> Entity["Country", "BosniaHerzegovina"], 
+   "AdultMortalityRateBothSexes2013" -> 101/1000, 
+   "AdultMortalityRateFemale2013" -> 8/125, "AdultMortalityRateMale2013" -> 
+    69/500|>, <|"Economy" -> Entity["Country", "Botswana"], 
+   "AdultMortalityRateBothSexes2013" -> 287/1000, 
+   "AdultMortalityRateFemale2013" -> 127/500, "AdultMortalityRateMale2013" -> 
+    321/1000|>, <|"Economy" -> Entity["Country", "Brazil"], 
+   "AdultMortalityRateBothSexes2013" -> 147/1000, 
+   "AdultMortalityRateFemale2013" -> 97/1000, "AdultMortalityRateMale2013" -> 
+    197/1000|>, <|"Economy" -> Entity["Country", "Brunei"], 
+   "AdultMortalityRateBothSexes2013" -> 17/200, 
+   "AdultMortalityRateFemale2013" -> 69/1000, "AdultMortalityRateMale2013" -> 
+    101/1000|>, <|"Economy" -> Entity["Country", "Bulgaria"], 
+   "AdultMortalityRateBothSexes2013" -> 137/1000, 
+   "AdultMortalityRateFemale2013" -> 83/1000, "AdultMortalityRateMale2013" -> 
+    189/1000|>, <|"Economy" -> Entity["Country", "BurkinaFaso"], 
+   "AdultMortalityRateBothSexes2013" -> 11/40, 
+   "AdultMortalityRateFemale2013" -> 32/125, "AdultMortalityRateMale2013" -> 
+    149/500|>, <|"Economy" -> Entity["Country", "Burundi"], 
+   "AdultMortalityRateBothSexes2013" -> 33/100, 
+   "AdultMortalityRateFemale2013" -> 3/10, "AdultMortalityRateMale2013" -> 
+    359/1000|>, <|"Economy" -> Entity["Country", "IvoryCoast"], 
+   "AdultMortalityRateBothSexes2013" -> 81/200, 
+   "AdultMortalityRateFemale2013" -> 199/500, "AdultMortalityRateMale2013" -> 
+    41/100|>, <|"Economy" -> Entity["Country", "CapeVerde"], 
+   "AdultMortalityRateBothSexes2013" -> 13/125, 
+   "AdultMortalityRateFemale2013" -> 17/250, "AdultMortalityRateMale2013" -> 
+    18/125|>, <|"Economy" -> Entity["Country", "Cambodia"], 
+   "AdultMortalityRateBothSexes2013" -> 91/500, 
+   "AdultMortalityRateFemale2013" -> 157/1000, 
+   "AdultMortalityRateMale2013" -> 21/100|>, 
+  <|"Economy" -> Entity["Country", "Cameroon"], 
+   "AdultMortalityRateBothSexes2013" -> 89/250, 
+   "AdultMortalityRateFemale2013" -> 341/1000, 
+   "AdultMortalityRateMale2013" -> 37/100|>, 
+  <|"Economy" -> Entity["Country", "Canada"], 
+   "AdultMortalityRateBothSexes2013" -> 33/500, 
+   "AdultMortalityRateFemale2013" -> 13/250, "AdultMortalityRateMale2013" -> 
+    81/1000|>, <|"Economy" -> Entity["Country", "CentralAfricanRepublic"], 
+   "AdultMortalityRateBothSexes2013" -> 211/500, 
+   "AdultMortalityRateFemale2013" -> 103/250, "AdultMortalityRateMale2013" -> 
+    433/1000|>, <|"Economy" -> Entity["Country", "Chad"], 
+   "AdultMortalityRateBothSexes2013" -> 393/1000, 
+   "AdultMortalityRateFemale2013" -> 377/1000, 
+   "AdultMortalityRateMale2013" -> 41/100|>, 
+  <|"Economy" -> Entity["Country", "Chile"], 
+   "AdultMortalityRateBothSexes2013" -> 81/1000, 
+   "AdultMortalityRateFemale2013" -> 11/200, "AdultMortalityRateMale2013" -> 
+    107/1000|>, <|"Economy" -> Entity["Country", "China"], 
+   "AdultMortalityRateBothSexes2013" -> 9/100, 
+   "AdultMortalityRateFemale2013" -> 19/250, "AdultMortalityRateMale2013" -> 
+    103/1000|>, <|"Economy" -> Entity["Country", "Colombia"], 
+   "AdultMortalityRateBothSexes2013" -> 11/100, 
+   "AdultMortalityRateFemale2013" -> 73/1000, "AdultMortalityRateMale2013" -> 
+    37/250|>, <|"Economy" -> Entity["Country", "Comoros"], 
+   "AdultMortalityRateBothSexes2013" -> 257/1000, 
+   "AdultMortalityRateFemale2013" -> 117/500, "AdultMortalityRateMale2013" -> 
+    281/1000|>, <|"Economy" -> Entity["Country", "RepublicCongo"], 
+   "AdultMortalityRateBothSexes2013" -> 151/500, 
+   "AdultMortalityRateFemale2013" -> 7/25, "AdultMortalityRateMale2013" -> 
+    323/1000|>, <|"Economy" -> Entity["Country", "CookIslands"], 
+   "AdultMortalityRateBothSexes2013" -> 3/25, 
+   "AdultMortalityRateFemale2013" -> 73/1000, "AdultMortalityRateMale2013" -> 
+    163/1000|>, <|"Economy" -> Entity["Country", "CostaRica"], 
+   "AdultMortalityRateBothSexes2013" -> 11/125, 
+   "AdultMortalityRateFemale2013" -> 8/125, "AdultMortalityRateMale2013" -> 
+    111/1000|>, <|"Economy" -> Entity["Country", "Croatia"], 
+   "AdultMortalityRateBothSexes2013" -> 97/1000, 
+   "AdultMortalityRateFemale2013" -> 29/500, "AdultMortalityRateMale2013" -> 
+    27/200|>, <|"Economy" -> Entity["Country", "Cuba"], 
+   "AdultMortalityRateBothSexes2013" -> 47/500, 
+   "AdultMortalityRateFemale2013" -> 73/1000, "AdultMortalityRateMale2013" -> 
+    23/200|>, <|"Economy" -> Entity["Country", "Cyprus"], 
+   "AdultMortalityRateBothSexes2013" -> 7/125, 
+   "AdultMortalityRateFemale2013" -> 9/250, "AdultMortalityRateMale2013" -> 
+    3/40|>, <|"Economy" -> Entity["Country", "CzechRepublic"], 
+   "AdultMortalityRateBothSexes2013" -> 93/1000, 
+   "AdultMortalityRateFemale2013" -> 57/1000, "AdultMortalityRateMale2013" -> 
+    127/1000|>, <|"Economy" -> Entity["Country", "NorthKorea"], 
+   "AdultMortalityRateBothSexes2013" -> 147/1000, 
+   "AdultMortalityRateFemale2013" -> 111/1000, 
+   "AdultMortalityRateMale2013" -> 183/1000|>, 
+  <|"Economy" -> Entity["Country", "DemocraticRepublicCongo"], 
+   "AdultMortalityRateBothSexes2013" -> 349/1000, 
+   "AdultMortalityRateFemale2013" -> 8/25, "AdultMortalityRateMale2013" -> 
+    379/1000|>, <|"Economy" -> Entity["Country", "Denmark"], 
+   "AdultMortalityRateBothSexes2013" -> 2/25, 
+   "AdultMortalityRateFemale2013" -> 3/50, "AdultMortalityRateMale2013" -> 
+    1/10|>, <|"Economy" -> Entity["Country", "Djibouti"], 
+   "AdultMortalityRateBothSexes2013" -> 53/200, 
+   "AdultMortalityRateFemale2013" -> 49/200, "AdultMortalityRateMale2013" -> 
+    143/500|>, <|"Economy" -> Entity["Country", "Dominica"], 
+   "AdultMortalityRateBothSexes2013" -> 21/125, 
+   "AdultMortalityRateFemale2013" -> 29/250, "AdultMortalityRateMale2013" -> 
+    219/1000|>, <|"Economy" -> Entity["Country", "DominicanRepublic"], 
+   "AdultMortalityRateBothSexes2013" -> 153/1000, 
+   "AdultMortalityRateFemale2013" -> 73/500, "AdultMortalityRateMale2013" -> 
+    4/25|>, <|"Economy" -> Entity["Country", "Ecuador"], 
+   "AdultMortalityRateBothSexes2013" -> 121/1000, 
+   "AdultMortalityRateFemale2013" -> 17/200, "AdultMortalityRateMale2013" -> 
+    157/1000|>, <|"Economy" -> Entity["Country", "Egypt"], 
+   "AdultMortalityRateBothSexes2013" -> 39/250, 
+   "AdultMortalityRateFemale2013" -> 117/1000, 
+   "AdultMortalityRateMale2013" -> 193/1000|>, 
+  <|"Economy" -> Entity["Country", "ElSalvador"], 
+   "AdultMortalityRateBothSexes2013" -> 26/125, 
+   "AdultMortalityRateFemale2013" -> 17/125, "AdultMortalityRateMale2013" -> 
+    29/100|>, <|"Economy" -> Entity["Country", "EquatorialGuinea"], 
+   "AdultMortalityRateBothSexes2013" -> 173/500, 
+   "AdultMortalityRateFemale2013" -> 319/1000, 
+   "AdultMortalityRateMale2013" -> 46/125|>, 
+  <|"Economy" -> Entity["Country", "Eritrea"], 
+   "AdultMortalityRateBothSexes2013" -> 33/125, 
+   "AdultMortalityRateFemale2013" -> 229/1000, 
+   "AdultMortalityRateMale2013" -> 301/1000|>, 
+  <|"Economy" -> Entity["Country", "Estonia"], 
+   "AdultMortalityRateBothSexes2013" -> 129/1000, 
+   "AdultMortalityRateFemale2013" -> 8/125, "AdultMortalityRateMale2013" -> 
+    39/200|>, <|"Economy" -> Entity["Country", "Ethiopia"], 
+   "AdultMortalityRateBothSexes2013" -> 109/500, 
+   "AdultMortalityRateFemale2013" -> 99/500, "AdultMortalityRateMale2013" -> 
+    239/1000|>, <|"Economy" -> Entity["Country", "Fiji"], 
+   "AdultMortalityRateBothSexes2013" -> 193/1000, 
+   "AdultMortalityRateFemale2013" -> 143/1000, 
+   "AdultMortalityRateMale2013" -> 239/1000|>, 
+  <|"Economy" -> Entity["Country", "Finland"], 
+   "AdultMortalityRateBothSexes2013" -> 83/1000, 
+   "AdultMortalityRateFemale2013" -> 51/1000, "AdultMortalityRateMale2013" -> 
+    57/500|>, <|"Economy" -> Entity["Country", "France"], 
+   "AdultMortalityRateBothSexes2013" -> 2/25, 
+   "AdultMortalityRateFemale2013" -> 13/250, "AdultMortalityRateMale2013" -> 
+    109/1000|>, <|"Economy" -> Entity["Country", "Gabon"], 
+   "AdultMortalityRateBothSexes2013" -> 133/500, 
+   "AdultMortalityRateFemale2013" -> 47/200, "AdultMortalityRateMale2013" -> 
+    37/125|>, <|"Economy" -> Entity["Country", "Gambia"], 
+   "AdultMortalityRateBothSexes2013" -> 267/1000, 
+   "AdultMortalityRateFemale2013" -> 6/25, "AdultMortalityRateMale2013" -> 
+    59/200|>, <|"Economy" -> Entity["Country", "Georgia"], 
+   "AdultMortalityRateBothSexes2013" -> 59/500, 
+   "AdultMortalityRateFemale2013" -> 33/500, "AdultMortalityRateMale2013" -> 
+    87/500|>, <|"Economy" -> Entity["Country", "Germany"], 
+   "AdultMortalityRateBothSexes2013" -> 71/1000, 
+   "AdultMortalityRateFemale2013" -> 1/20, "AdultMortalityRateMale2013" -> 
+    23/250|>, <|"Economy" -> Entity["Country", "Ghana"], 
+   "AdultMortalityRateBothSexes2013" -> 241/1000, 
+   "AdultMortalityRateFemale2013" -> 111/500, "AdultMortalityRateMale2013" -> 
+    261/1000|>, <|"Economy" -> Entity["Country", "Greece"], 
+   "AdultMortalityRateBothSexes2013" -> 7/100, 
+   "AdultMortalityRateFemale2013" -> 41/1000, "AdultMortalityRateMale2013" -> 
+    49/500|>, <|"Economy" -> Entity["Country", "Grenada"], 
+   "AdultMortalityRateBothSexes2013" -> 157/1000, 
+   "AdultMortalityRateFemale2013" -> 3/25, "AdultMortalityRateMale2013" -> 
+    97/500|>, <|"Economy" -> Entity["Country", "Guatemala"], 
+   "AdultMortalityRateBothSexes2013" -> 179/1000, 
+   "AdultMortalityRateFemale2013" -> 63/500, "AdultMortalityRateMale2013" -> 
+    59/250|>, <|"Economy" -> Entity["Country", "Guinea"], 
+   "AdultMortalityRateBothSexes2013" -> 71/250, 
+   "AdultMortalityRateFemale2013" -> 267/1000, 
+   "AdultMortalityRateMale2013" -> 301/1000|>, 
+  <|"Economy" -> Entity["Country", "GuineaBissau"], 
+   "AdultMortalityRateBothSexes2013" -> 359/1000, 
+   "AdultMortalityRateFemale2013" -> 13/40, "AdultMortalityRateMale2013" -> 
+    393/1000|>, <|"Economy" -> Entity["Country", "Guyana"], 
+   "AdultMortalityRateBothSexes2013" -> 8/25, 
+   "AdultMortalityRateFemale2013" -> 32/125, "AdultMortalityRateMale2013" -> 
+    377/1000|>, <|"Economy" -> Entity["Country", "Haiti"], 
+   "AdultMortalityRateBothSexes2013" -> 121/500, 
+   "AdultMortalityRateFemale2013" -> 221/1000, 
+   "AdultMortalityRateMale2013" -> 263/1000|>, 
+  <|"Economy" -> Entity["Country", "Honduras"], 
+   "AdultMortalityRateBothSexes2013" -> 147/1000, 
+   "AdultMortalityRateFemale2013" -> 3/25, "AdultMortalityRateMale2013" -> 
+    173/1000|>, <|"Economy" -> Entity["Country", "Hungary"], 
+   "AdultMortalityRateBothSexes2013" -> 73/500, 
+   "AdultMortalityRateFemale2013" -> 91/1000, "AdultMortalityRateMale2013" -> 
+    201/1000|>, <|"Economy" -> Entity["Country", "Iceland"], 
+   "AdultMortalityRateBothSexes2013" -> 49/1000, 
+   "AdultMortalityRateFemale2013" -> 37/1000, "AdultMortalityRateMale2013" -> 
+    61/1000|>, <|"Economy" -> Entity["Country", "India"], 
+   "AdultMortalityRateBothSexes2013" -> 201/1000, 
+   "AdultMortalityRateFemale2013" -> 79/500, "AdultMortalityRateMale2013" -> 
+    239/1000|>, <|"Economy" -> Entity["Country", "Indonesia"], 
+   "AdultMortalityRateBothSexes2013" -> 149/1000, 
+   "AdultMortalityRateFemale2013" -> 121/1000, 
+   "AdultMortalityRateMale2013" -> 22/125|>, 
+  <|"Economy" -> Entity["Country", "Iran"], 
+   "AdultMortalityRateBothSexes2013" -> 119/1000, 
+   "AdultMortalityRateFemale2013" -> 83/1000, "AdultMortalityRateMale2013" -> 
+    153/1000|>, <|"Economy" -> Entity["Country", "Iraq"], 
+   "AdultMortalityRateBothSexes2013" -> 153/1000, 
+   "AdultMortalityRateFemale2013" -> 13/125, "AdultMortalityRateMale2013" -> 
+    203/1000|>, <|"Economy" -> Entity["Country", "Ireland"], 
+   "AdultMortalityRateBothSexes2013" -> 13/200, 
+   "AdultMortalityRateFemale2013" -> 49/1000, "AdultMortalityRateMale2013" -> 
+    41/500|>, <|"Economy" -> Entity["Country", "Israel"], 
+   "AdultMortalityRateBothSexes2013" -> 7/125, 
+   "AdultMortalityRateFemale2013" -> 41/1000, "AdultMortalityRateMale2013" -> 
+    9/125|>, <|"Economy" -> Entity["Country", "Italy"], 
+   "AdultMortalityRateBothSexes2013" -> 27/500, 
+   "AdultMortalityRateFemale2013" -> 19/500, "AdultMortalityRateMale2013" -> 
+    69/1000|>, <|"Economy" -> Entity["Country", "Jamaica"], 
+   "AdultMortalityRateBothSexes2013" -> 139/1000, 
+   "AdultMortalityRateFemale2013" -> 21/200, "AdultMortalityRateMale2013" -> 
+    173/1000|>, <|"Economy" -> Entity["Country", "Japan"], 
+   "AdultMortalityRateBothSexes2013" -> 31/500, 
+   "AdultMortalityRateFemale2013" -> 21/500, "AdultMortalityRateMale2013" -> 
+    81/1000|>, <|"Economy" -> Entity["Country", "Jordan"], 
+   "AdultMortalityRateBothSexes2013" -> 57/500, 
+   "AdultMortalityRateFemale2013" -> 12/125, "AdultMortalityRateMale2013" -> 
+    131/1000|>, <|"Economy" -> Entity["Country", "Kazakhstan"], 
+   "AdultMortalityRateBothSexes2013" -> 233/1000, 
+   "AdultMortalityRateFemale2013" -> 73/500, "AdultMortalityRateMale2013" -> 
+    161/500|>, <|"Economy" -> Entity["Country", "Kenya"], 
+   "AdultMortalityRateBothSexes2013" -> 137/500, 
+   "AdultMortalityRateFemale2013" -> 1/4, "AdultMortalityRateMale2013" -> 
+    299/1000|>, <|"Economy" -> Entity["Country", "Kiribati"], 
+   "AdultMortalityRateBothSexes2013" -> 43/250, 
+   "AdultMortalityRateFemale2013" -> 67/500, "AdultMortalityRateMale2013" -> 
+    103/500|>, <|"Economy" -> Entity["Country", "Kuwait"], 
+   "AdultMortalityRateBothSexes2013" -> 13/250, 
+   "AdultMortalityRateFemale2013" -> 21/500, "AdultMortalityRateMale2013" -> 
+    59/1000|>, <|"Economy" -> Entity["Country", "Kyrgyzstan"], 
+   "AdultMortalityRateBothSexes2013" -> 201/1000, 
+   "AdultMortalityRateFemale2013" -> 13/100, "AdultMortalityRateMale2013" -> 
+    34/125|>, <|"Economy" -> Entity["Country", "Laos"], 
+   "AdultMortalityRateBothSexes2013" -> 177/1000, 
+   "AdultMortalityRateFemale2013" -> 79/500, "AdultMortalityRateMale2013" -> 
+    197/1000|>, <|"Economy" -> Entity["Country", "Latvia"], 
+   "AdultMortalityRateBothSexes2013" -> 153/1000, 
+   "AdultMortalityRateFemale2013" -> 17/200, "AdultMortalityRateMale2013" -> 
+    28/125|>, <|"Economy" -> Entity["Country", "Lebanon"], 
+   "AdultMortalityRateBothSexes2013" -> 59/1000, 
+   "AdultMortalityRateFemale2013" -> 23/500, "AdultMortalityRateMale2013" -> 
+    7/100|>, <|"Economy" -> Entity["Country", "Lesotho"], 
+   "AdultMortalityRateBothSexes2013" -> 53/100, 
+   "AdultMortalityRateFemale2013" -> 123/250, "AdultMortalityRateMale2013" -> 
+    577/1000|>, <|"Economy" -> Entity["Country", "Liberia"], 
+   "AdultMortalityRateBothSexes2013" -> 259/1000, 
+   "AdultMortalityRateFemale2013" -> 6/25, "AdultMortalityRateMale2013" -> 
+    279/1000|>, <|"Economy" -> Entity["Country", "Libya"], 
+   "AdultMortalityRateBothSexes2013" -> 99/1000, 
+   "AdultMortalityRateFemale2013" -> 2/25, "AdultMortalityRateMale2013" -> 
+    117/1000|>, <|"Economy" -> Entity["Country", "Lithuania"], 
+   "AdultMortalityRateBothSexes2013" -> 17/100, 
+   "AdultMortalityRateFemale2013" -> 11/125, "AdultMortalityRateMale2013" -> 
+    127/500|>, <|"Economy" -> Entity["Country", "Luxembourg"], 
+   "AdultMortalityRateBothSexes2013" -> 13/200, 
+   "AdultMortalityRateFemale2013" -> 1/20, "AdultMortalityRateMale2013" -> 
+    79/1000|>, <|"Economy" -> Entity["Country", "Madagascar"], 
+   "AdultMortalityRateBothSexes2013" -> 29/125, 
+   "AdultMortalityRateFemale2013" -> 26/125, "AdultMortalityRateMale2013" -> 
+    257/1000|>, <|"Economy" -> Entity["Country", "Malawi"], 
+   "AdultMortalityRateBothSexes2013" -> 163/500, 
+   "AdultMortalityRateFemale2013" -> 29/100, "AdultMortalityRateMale2013" -> 
+    181/500|>, <|"Economy" -> Entity["Country", "Malaysia"], 
+   "AdultMortalityRateBothSexes2013" -> 127/1000, 
+   "AdultMortalityRateFemale2013" -> 43/500, "AdultMortalityRateMale2013" -> 
+    169/1000|>, <|"Economy" -> Entity["Country", "Maldives"], 
+   "AdultMortalityRateBothSexes2013" -> 71/1000, 
+   "AdultMortalityRateFemale2013" -> 11/200, "AdultMortalityRateMale2013" -> 
+    43/500|>, <|"Economy" -> Entity["Country", "Mali"], 
+   "AdultMortalityRateBothSexes2013" -> 11/40, 
+   "AdultMortalityRateFemale2013" -> 11/40, "AdultMortalityRateMale2013" -> 
+    277/1000|>, <|"Economy" -> Entity["Country", "Malta"], 
+   "AdultMortalityRateBothSexes2013" -> 29/500, 
+   "AdultMortalityRateFemale2013" -> 41/1000, "AdultMortalityRateMale2013" -> 
+    3/40|>, <|"Economy" -> Entity["Country", "MarshallIslands"], 
+   "AdultMortalityRateBothSexes2013" -> 129/1000, 
+   "AdultMortalityRateFemale2013" -> 13/125, "AdultMortalityRateMale2013" -> 
+    153/1000|>, <|"Economy" -> Entity["Country", "Mauritania"], 
+   "AdultMortalityRateBothSexes2013" -> 211/1000, 
+   "AdultMortalityRateFemale2013" -> 187/1000, 
+   "AdultMortalityRateMale2013" -> 117/500|>, 
+  <|"Economy" -> Entity["Country", "Mauritius"], 
+   "AdultMortalityRateBothSexes2013" -> 3/20, 
+   "AdultMortalityRateFemale2013" -> 19/200, "AdultMortalityRateMale2013" -> 
+    101/500|>, <|"Economy" -> Entity["Country", "Mexico"], 
+   "AdultMortalityRateBothSexes2013" -> 33/250, 
+   "AdultMortalityRateFemale2013" -> 93/1000, "AdultMortalityRateMale2013" -> 
+    87/500|>, <|"Economy" -> Entity["Country", "Micronesia"], 
+   "AdultMortalityRateBothSexes2013" -> 167/1000, 
+   "AdultMortalityRateFemale2013" -> 77/500, "AdultMortalityRateMale2013" -> 
+    181/1000|>, <|"Economy" -> Entity["Country", "Monaco"], 
+   "AdultMortalityRateBothSexes2013" -> 19/250, 
+   "AdultMortalityRateFemale2013" -> 6/125, "AdultMortalityRateMale2013" -> 
+    21/200|>, <|"Economy" -> Entity["Country", "Mongolia"], 
+   "AdultMortalityRateBothSexes2013" -> 229/1000, 
+   "AdultMortalityRateFemale2013" -> 37/250, "AdultMortalityRateMale2013" -> 
+    309/1000|>, <|"Economy" -> Entity["Country", "Montenegro"], 
+   "AdultMortalityRateBothSexes2013" -> 29/250, 
+   "AdultMortalityRateFemale2013" -> 79/1000, "AdultMortalityRateMale2013" -> 
+    19/125|>, <|"Economy" -> Entity["Country", "Morocco"], 
+   "AdultMortalityRateBothSexes2013" -> 73/500, 
+   "AdultMortalityRateFemale2013" -> 121/1000, 
+   "AdultMortalityRateMale2013" -> 17/100|>, 
+  <|"Economy" -> Entity["Country", "Mozambique"], 
+   "AdultMortalityRateBothSexes2013" -> 217/500, 
+   "AdultMortalityRateFemale2013" -> 54/125, "AdultMortalityRateMale2013" -> 
+    219/500|>, <|"Economy" -> Entity["Country", "Myanmar"], 
+   "AdultMortalityRateBothSexes2013" -> 21/100, 
+   "AdultMortalityRateFemale2013" -> 183/1000, 
+   "AdultMortalityRateMale2013" -> 6/25|>, 
+  <|"Economy" -> Entity["Country", "Namibia"], 
+   "AdultMortalityRateBothSexes2013" -> 107/500, 
+   "AdultMortalityRateFemale2013" -> 177/1000, 
+   "AdultMortalityRateMale2013" -> 51/200|>, 
+  <|"Economy" -> Entity["Country", "Nauru"], 
+   "AdultMortalityRateBothSexes2013" -> 67/1000, 
+   "AdultMortalityRateFemale2013" -> 11/250, "AdultMortalityRateMale2013" -> 
+    11/125|>, <|"Economy" -> Entity["Country", "Nepal"], 
+   "AdultMortalityRateBothSexes2013" -> 22/125, 
+   "AdultMortalityRateFemale2013" -> 159/1000, 
+   "AdultMortalityRateMale2013" -> 24/125|>, 
+  <|"Economy" -> Entity["Country", "Netherlands"], 
+   "AdultMortalityRateBothSexes2013" -> 61/1000, 
+   "AdultMortalityRateFemale2013" -> 27/500, "AdultMortalityRateMale2013" -> 
+    69/1000|>, <|"Economy" -> Entity["Country", "NewZealand"], 
+   "AdultMortalityRateBothSexes2013" -> 33/500, 
+   "AdultMortalityRateFemale2013" -> 13/250, "AdultMortalityRateMale2013" -> 
+    2/25|>, <|"Economy" -> Entity["Country", "Nicaragua"], 
+   "AdultMortalityRateBothSexes2013" -> 79/500, 
+   "AdultMortalityRateFemale2013" -> 29/250, "AdultMortalityRateMale2013" -> 
+    1/5|>, <|"Economy" -> Entity["Country", "Niger"], 
+   "AdultMortalityRateBothSexes2013" -> 31/125, 
+   "AdultMortalityRateFemale2013" -> 241/1000, 
+   "AdultMortalityRateMale2013" -> 63/250|>, 
+  <|"Economy" -> Entity["Country", "Nigeria"], 
+   "AdultMortalityRateBothSexes2013" -> 341/1000, 
+   "AdultMortalityRateFemale2013" -> 13/40, "AdultMortalityRateMale2013" -> 
+    357/1000|>, <|"Economy" -> Entity["Country", "Niue"], 
+   "AdultMortalityRateBothSexes2013" -> 63/500, 
+   "AdultMortalityRateFemale2013" -> 21/250, "AdultMortalityRateMale2013" -> 
+    41/250|>, <|"Economy" -> Entity["Country", "Norway"], 
+   "AdultMortalityRateBothSexes2013" -> 61/1000, 
+   "AdultMortalityRateFemale2013" -> 47/1000, "AdultMortalityRateMale2013" -> 
+    73/1000|>, <|"Economy" -> Entity["Country", "Oman"], 
+   "AdultMortalityRateBothSexes2013" -> 1/10, 
+   "AdultMortalityRateFemale2013" -> 73/1000, "AdultMortalityRateMale2013" -> 
+    29/250|>, <|"Economy" -> Entity["Country", "Pakistan"], 
+   "AdultMortalityRateBothSexes2013" -> 173/1000, 
+   "AdultMortalityRateFemale2013" -> 31/200, "AdultMortalityRateMale2013" -> 
+    189/1000|>, <|"Economy" -> Entity["Country", "Palau"], 
+   "AdultMortalityRateBothSexes2013" -> 33/250, 
+   "AdultMortalityRateFemale2013" -> 53/500, "AdultMortalityRateMale2013" -> 
+    39/250|>, <|"Economy" -> Entity["Country", "Panama"], 
+   "AdultMortalityRateBothSexes2013" -> 29/250, 
+   "AdultMortalityRateFemale2013" -> 81/1000, "AdultMortalityRateMale2013" -> 
+    149/1000|>, <|"Economy" -> Entity["Country", "PapuaNewGuinea"], 
+   "AdultMortalityRateBothSexes2013" -> 141/500, 
+   "AdultMortalityRateFemale2013" -> 243/1000, 
+   "AdultMortalityRateMale2013" -> 319/1000|>, 
+  <|"Economy" -> Entity["Country", "Paraguay"], 
+   "AdultMortalityRateBothSexes2013" -> 69/500, 
+   "AdultMortalityRateFemale2013" -> 12/125, "AdultMortalityRateMale2013" -> 
+    89/500|>, <|"Economy" -> Entity["Country", "Peru"], 
+   "AdultMortalityRateBothSexes2013" -> 103/1000, 
+   "AdultMortalityRateFemale2013" -> 9/100, "AdultMortalityRateMale2013" -> 
+    29/250|>, <|"Economy" -> Entity["Country", "Philippines"], 
+   "AdultMortalityRateBothSexes2013" -> 49/250, 
+   "AdultMortalityRateFemale2013" -> 17/125, "AdultMortalityRateMale2013" -> 
+    51/200|>, <|"Economy" -> Entity["Country", "Poland"], 
+   "AdultMortalityRateBothSexes2013" -> 129/1000, 
+   "AdultMortalityRateFemale2013" -> 7/100, "AdultMortalityRateMale2013" -> 
+    93/500|>, <|"Economy" -> Entity["Country", "Portugal"], 
+   "AdultMortalityRateBothSexes2013" -> 2/25, 
+   "AdultMortalityRateFemale2013" -> 6/125, "AdultMortalityRateMale2013" -> 
+    111/1000|>, <|"Economy" -> Entity["Country", "Qatar"], 
+   "AdultMortalityRateBothSexes2013" -> 67/1000, 
+   "AdultMortalityRateFemale2013" -> 1/20, "AdultMortalityRateMale2013" -> 
+    9/125|>, <|"Economy" -> Entity["Country", "SouthKorea"], 
+   "AdultMortalityRateBothSexes2013" -> 33/500, 
+   "AdultMortalityRateFemale2013" -> 19/500, "AdultMortalityRateMale2013" -> 
+    93/1000|>, <|"Economy" -> Entity["Country", "Moldova"], 
+   "AdultMortalityRateBothSexes2013" -> 191/1000, 
+   "AdultMortalityRateFemale2013" -> 53/500, "AdultMortalityRateMale2013" -> 
+    277/1000|>, <|"Economy" -> Entity["Country", "Romania"], 
+   "AdultMortalityRateBothSexes2013" -> 18/125, 
+   "AdultMortalityRateFemale2013" -> 81/1000, "AdultMortalityRateMale2013" -> 
+    41/200|>, <|"Economy" -> Entity["Country", "Russia"], 
+   "AdultMortalityRateBothSexes2013" -> 29/125, 
+   "AdultMortalityRateFemale2013" -> 63/500, "AdultMortalityRateMale2013" -> 
+    339/1000|>, <|"Economy" -> Entity["Country", "Rwanda"], 
+   "AdultMortalityRateBothSexes2013" -> 11/50, 
+   "AdultMortalityRateFemale2013" -> 49/250, "AdultMortalityRateMale2013" -> 
+    123/500|>, <|"Economy" -> Entity["Country", "SaintKittsNevis"], 
+   "AdultMortalityRateBothSexes2013" -> 61/500, 
+   "AdultMortalityRateFemale2013" -> 79/1000, "AdultMortalityRateMale2013" -> 
+    33/200|>, <|"Economy" -> Entity["Country", "SaintLucia"], 
+   "AdultMortalityRateBothSexes2013" -> 131/1000, 
+   "AdultMortalityRateFemale2013" -> 17/200, "AdultMortalityRateMale2013" -> 
+    177/1000|>, <|"Economy" -> Entity["Country", "SaintVincentGrenadines"], 
+   "AdultMortalityRateBothSexes2013" -> 141/1000, 
+   "AdultMortalityRateFemale2013" -> 11/100, "AdultMortalityRateMale2013" -> 
+    169/1000|>, <|"Economy" -> Entity["Country", "Samoa"], 
+   "AdultMortalityRateBothSexes2013" -> 133/1000, 
+   "AdultMortalityRateFemale2013" -> 97/1000, "AdultMortalityRateMale2013" -> 
+    83/500|>, <|"Economy" -> Entity["Country", "SanMarino"], 
+   "AdultMortalityRateBothSexes2013" -> 1/20, 
+   "AdultMortalityRateFemale2013" -> 23/500, "AdultMortalityRateMale2013" -> 
+    27/500|>, <|"Economy" -> Entity["Country", "SaoTomePrincipe"], 
+   "AdultMortalityRateBothSexes2013" -> 193/1000, 
+   "AdultMortalityRateFemale2013" -> 21/125, "AdultMortalityRateMale2013" -> 
+    221/1000|>, <|"Economy" -> Entity["Country", "SaudiArabia"], 
+   "AdultMortalityRateBothSexes2013" -> 2/25, 
+   "AdultMortalityRateFemale2013" -> 67/1000, "AdultMortalityRateMale2013" -> 
+    89/1000|>, <|"Economy" -> Entity["Country", "Senegal"], 
+   "AdultMortalityRateBothSexes2013" -> 27/125, 
+   "AdultMortalityRateFemale2013" -> 24/125, "AdultMortalityRateMale2013" -> 
+    61/250|>, <|"Economy" -> Entity["Country", "Serbia"], 
+   "AdultMortalityRateBothSexes2013" -> 16/125, 
+   "AdultMortalityRateFemale2013" -> 21/250, "AdultMortalityRateMale2013" -> 
+    43/250|>, <|"Economy" -> Entity["Country", "Seychelles"], 
+   "AdultMortalityRateBothSexes2013" -> 161/1000, 
+   "AdultMortalityRateFemale2013" -> 99/1000, "AdultMortalityRateMale2013" -> 
+    107/500|>, <|"Economy" -> Entity["Country", "SierraLeone"], 
+   "AdultMortalityRateBothSexes2013" -> 433/1000, 
+   "AdultMortalityRateFemale2013" -> 423/1000, 
+   "AdultMortalityRateMale2013" -> 111/250|>, 
+  <|"Economy" -> Entity["Country", "Singapore"], 
+   "AdultMortalityRateBothSexes2013" -> 27/500, 
+   "AdultMortalityRateFemale2013" -> 19/500, "AdultMortalityRateMale2013" -> 
+    69/1000|>, <|"Economy" -> Entity["Country", "Slovakia"], 
+   "AdultMortalityRateBothSexes2013" -> 59/500, 
+   "AdultMortalityRateFemale2013" -> 67/1000, "AdultMortalityRateMale2013" -> 
+    21/125|>, <|"Economy" -> Entity["Country", "Slovenia"], 
+   "AdultMortalityRateBothSexes2013" -> 41/500, 
+   "AdultMortalityRateFemale2013" -> 49/1000, "AdultMortalityRateMale2013" -> 
+    14/125|>, <|"Economy" -> Entity["Country", "SolomonIslands"], 
+   "AdultMortalityRateBothSexes2013" -> 183/1000, 
+   "AdultMortalityRateFemale2013" -> 81/500, "AdultMortalityRateMale2013" -> 
+    203/1000|>, <|"Economy" -> Entity["Country", "Somalia"], 
+   "AdultMortalityRateBothSexes2013" -> 157/500, 
+   "AdultMortalityRateFemale2013" -> 289/1000, 
+   "AdultMortalityRateMale2013" -> 339/1000|>, 
+  <|"Economy" -> Entity["Country", "SouthAfrica"], 
+   "AdultMortalityRateBothSexes2013" -> 189/500, 
+   "AdultMortalityRateFemale2013" -> 8/25, "AdultMortalityRateMale2013" -> 
+    441/1000|>, <|"Economy" -> Entity["Country", "SouthSudan"], 
+   "AdultMortalityRateBothSexes2013" -> 169/500, 
+   "AdultMortalityRateFemale2013" -> 323/1000, 
+   "AdultMortalityRateMale2013" -> 353/1000|>, 
+  <|"Economy" -> Entity["Country", "Spain"], 
+   "AdultMortalityRateBothSexes2013" -> 63/1000, 
+   "AdultMortalityRateFemale2013" -> 1/25, "AdultMortalityRateMale2013" -> 
+    43/500|>, <|"Economy" -> Entity["Country", "SriLanka"], 
+   "AdultMortalityRateBothSexes2013" -> 129/1000, 
+   "AdultMortalityRateFemale2013" -> 3/40, "AdultMortalityRateMale2013" -> 
+    23/125|>, <|"Economy" -> Entity["Country", "Sudan"], 
+   "AdultMortalityRateBothSexes2013" -> 61/250, 
+   "AdultMortalityRateFemale2013" -> 53/250, "AdultMortalityRateMale2013" -> 
+    137/500|>, <|"Economy" -> Entity["Country", "Suriname"], 
+   "AdultMortalityRateBothSexes2013" -> 133/1000, 
+   "AdultMortalityRateFemale2013" -> 47/500, "AdultMortalityRateMale2013" -> 
+    171/1000|>, <|"Economy" -> Entity["Country", "Swaziland"], 
+   "AdultMortalityRateBothSexes2013" -> 503/1000, 
+   "AdultMortalityRateFemale2013" -> 62/125, "AdultMortalityRateMale2013" -> 
+    103/200|>, <|"Economy" -> Entity["Country", "Sweden"], 
+   "AdultMortalityRateBothSexes2013" -> 7/125, 
+   "AdultMortalityRateFemale2013" -> 43/1000, "AdultMortalityRateMale2013" -> 
+    69/1000|>, <|"Economy" -> Entity["Country", "Switzerland"], 
+   "AdultMortalityRateBothSexes2013" -> 53/1000, 
+   "AdultMortalityRateFemale2013" -> 1/25, "AdultMortalityRateMale2013" -> 
+    33/500|>, <|"Economy" -> Entity["Country", "Syria"], 
+   "AdultMortalityRateBothSexes2013" -> 19/200, 
+   "AdultMortalityRateFemale2013" -> 73/1000, "AdultMortalityRateMale2013" -> 
+    29/250|>, <|"Economy" -> Entity["Country", "Tajikistan"], 
+   "AdultMortalityRateBothSexes2013" -> 33/200, 
+   "AdultMortalityRateFemale2013" -> 153/1000, 
+   "AdultMortalityRateMale2013" -> 22/125|>, 
+  <|"Economy" -> Entity["Country", "Thailand"], 
+   "AdultMortalityRateBothSexes2013" -> 133/1000, 
+   "AdultMortalityRateFemale2013" -> 9/100, "AdultMortalityRateMale2013" -> 
+    177/1000|>, <|"Economy" -> Entity["Country", "Macedonia"], 
+   "AdultMortalityRateBothSexes2013" -> 103/1000, 
+   "AdultMortalityRateFemale2013" -> 71/1000, "AdultMortalityRateMale2013" -> 
+    67/500|>, <|"Economy" -> Entity["Country", "EastTimor"], 
+   "AdultMortalityRateBothSexes2013" -> 93/500, 
+   "AdultMortalityRateFemale2013" -> 41/250, "AdultMortalityRateMale2013" -> 
+    26/125|>, <|"Economy" -> Entity["Country", "Togo"], 
+   "AdultMortalityRateBothSexes2013" -> 3/10, 
+   "AdultMortalityRateFemale2013" -> 279/1000, 
+   "AdultMortalityRateMale2013" -> 323/1000|>, 
+  <|"Economy" -> Entity["Country", "Tonga"], 
+   "AdultMortalityRateBothSexes2013" -> 37/200, 
+   "AdultMortalityRateFemale2013" -> 49/200, "AdultMortalityRateMale2013" -> 
+    23/200|>, <|"Economy" -> Entity["Country", "TrinidadTobago"], 
+   "AdultMortalityRateBothSexes2013" -> 9/50, 
+   "AdultMortalityRateFemale2013" -> 129/1000, 
+   "AdultMortalityRateMale2013" -> 229/1000|>, 
+  <|"Economy" -> Entity["Country", "Tunisia"], 
+   "AdultMortalityRateBothSexes2013" -> 1/10, 
+   "AdultMortalityRateFemale2013" -> 69/1000, "AdultMortalityRateMale2013" -> 
+    13/100|>, <|"Economy" -> Entity["Country", "Turkey"], 
+   "AdultMortalityRateBothSexes2013" -> 109/1000, 
+   "AdultMortalityRateFemale2013" -> 73/1000, "AdultMortalityRateMale2013" -> 
+    147/1000|>, <|"Economy" -> Entity["Country", "Turkmenistan"], 
+   "AdultMortalityRateBothSexes2013" -> 29/100, 
+   "AdultMortalityRateFemale2013" -> 1/5, "AdultMortalityRateMale2013" -> 
+    47/125|>, <|"Economy" -> Entity["Country", "Tuvalu"], 
+   "AdultMortalityRateBothSexes2013" -> 21/100, 
+   "AdultMortalityRateFemale2013" -> 91/500, "AdultMortalityRateMale2013" -> 
+    59/250|>, <|"Economy" -> Entity["Country", "Uganda"], 
+   "AdultMortalityRateBothSexes2013" -> 43/125, 
+   "AdultMortalityRateFemale2013" -> 307/1000, 
+   "AdultMortalityRateMale2013" -> 19/50|>, 
+  <|"Economy" -> Entity["Country", "Ukraine"], 
+   "AdultMortalityRateBothSexes2013" -> 203/1000, 
+   "AdultMortalityRateFemale2013" -> 57/500, "AdultMortalityRateMale2013" -> 
+    59/200|>, <|"Economy" -> Entity["Country", "UnitedArabEmirates"], 
+   "AdultMortalityRateBothSexes2013" -> 19/250, 
+   "AdultMortalityRateFemale2013" -> 59/1000, "AdultMortalityRateMale2013" -> 
+    21/250|>, <|"Economy" -> Entity["Country", "UnitedKingdom"], 
+   "AdultMortalityRateBothSexes2013" -> 9/125, 
+   "AdultMortalityRateFemale2013" -> 11/200, "AdultMortalityRateMale2013" -> 
+    11/125|>, <|"Economy" -> Entity["Country", "Tanzania"], 
+   "AdultMortalityRateBothSexes2013" -> 279/1000, 
+   "AdultMortalityRateFemale2013" -> 61/250, "AdultMortalityRateMale2013" -> 
+    157/500|>, <|"Economy" -> Entity["Country", "UnitedStates"], 
+   "AdultMortalityRateBothSexes2013" -> 51/500, 
+   "AdultMortalityRateFemale2013" -> 19/250, "AdultMortalityRateMale2013" -> 
+    16/125|>, <|"Economy" -> Entity["Country", "Uruguay"], 
+   "AdultMortalityRateBothSexes2013" -> 113/1000, 
+   "AdultMortalityRateFemale2013" -> 79/1000, "AdultMortalityRateMale2013" -> 
+    37/250|>, <|"Economy" -> Entity["Country", "Uzbekistan"], 
+   "AdultMortalityRateBothSexes2013" -> 17/100, 
+   "AdultMortalityRateFemale2013" -> 13/100, "AdultMortalityRateMale2013" -> 
+    21/100|>, <|"Economy" -> Entity["Country", "Vanuatu"], 
+   "AdultMortalityRateBothSexes2013" -> 137/1000, 
+   "AdultMortalityRateFemale2013" -> 113/1000, 
+   "AdultMortalityRateMale2013" -> 161/1000|>, 
+  <|"Economy" -> Entity["Country", "Venezuela"], 
+   "AdultMortalityRateBothSexes2013" -> 29/200, 
+   "AdultMortalityRateFemale2013" -> 11/125, "AdultMortalityRateMale2013" -> 
+    99/500|>, <|"Economy" -> Entity["Country", "Vietnam"], 
+   "AdultMortalityRateBothSexes2013" -> 13/100, 
+   "AdultMortalityRateFemale2013" -> 69/1000, "AdultMortalityRateMale2013" -> 
+    189/1000|>, <|"Economy" -> Entity["Country", "Yemen"], 
+   "AdultMortalityRateBothSexes2013" -> 29/125, 
+   "AdultMortalityRateFemale2013" -> 211/1000, 
+   "AdultMortalityRateMale2013" -> 51/200|>, 
+  <|"Economy" -> Entity["Country", "Zambia"], 
+   "AdultMortalityRateBothSexes2013" -> 33/100, 
+   "AdultMortalityRateFemale2013" -> 303/1000, 
+   "AdultMortalityRateMale2013" -> 89/250|>, 
+  <|"Economy" -> Entity["Country", "Zimbabwe"], 
+   "AdultMortalityRateBothSexes2013" -> 42/125, 
+   "AdultMortalityRateFemale2013" -> 36/125, "AdultMortalityRateMale2013" -> 
+    77/200|>}, TypeSystem`Vector[TypeSystem`Struct[
+   {"Economy", "AdultMortalityRateBothSexes2013", 
+    "AdultMortalityRateFemale2013", "AdultMortalityRateMale2013"}, 
+   {TypeSystem`Atom[Entity["Country"]], TypeSystem`Atom[Real], 
+    TypeSystem`Atom[Real], TypeSystem`Atom[Real]}], 194], 
+ <|"ID" -> 266408314515290|>]

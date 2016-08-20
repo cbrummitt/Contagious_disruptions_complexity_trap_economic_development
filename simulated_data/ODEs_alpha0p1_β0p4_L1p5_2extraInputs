@@ -1,0 +1,128 @@
+{<|"ODE" -> F^2 + F*(-F^2 + 1.5*(-1 + F^2)), "Fiterator" -> {F, 0.0001, 0.1}, 
+  "Fmidpoint" -> 0.050050000000000004, "bestResponse" -> {2, 2}, 
+  "FdotMidPoint" -> -0.00014998999950000002|>, 
+ <|"ODE" -> F^3 + F*(-F^3 + 1.5*(-1 + F^3)), 
+  "Fiterator" -> {F, 0.10010000000000001, 0.11270000000000001}, 
+  "Fmidpoint" -> 0.10640000000000001, "bestResponse" -> {3, 3}, 
+  "FdotMidPoint" -> -0.14909679669879997|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 3, 2]) - 
+      BetaRegularized[F, 3, 2]) + BetaRegularized[F, 3, 2], 
+  "Fiterator" -> {F, 0.11280000000000001, 0.133}, 
+  "Fmidpoint" -> 0.12290000000000001, "bestResponse" -> {4, 3}, 
+  "FdotMidPoint" -> -0.16364829231720088|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 3, 3]) - 
+      BetaRegularized[F, 3, 3]) + BetaRegularized[F, 3, 3], 
+  "Fiterator" -> {F, 0.1331, 0.1841}, "Fmidpoint" -> 0.15860000000000002, 
+  "bestResponse" -> {5, 3}, "FdotMidPoint" -> -0.17925493043732177|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 3, 4]) - 
+      BetaRegularized[F, 3, 4]) + BetaRegularized[F, 3, 4], 
+  "Fiterator" -> {F, 0.1842, 0.3246}, "Fmidpoint" -> 0.2544, 
+  "bestResponse" -> {6, 3}, "FdotMidPoint" -> -0.1884566735123962|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 3, 3]) - 
+      BetaRegularized[F, 3, 3]) + BetaRegularized[F, 3, 3], 
+  "Fiterator" -> {F, 0.3247, 0.49960000000000004}, "Fmidpoint" -> 0.41215, 
+  "bestResponse" -> {5, 3}, "FdotMidPoint" -> -0.2577716169850011|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 4, 5]) - 
+      BetaRegularized[F, 4, 5]) + BetaRegularized[F, 4, 5], 
+  "Fiterator" -> {F, 0.49970000000000003, 0.5074000000000001}, 
+  "Fmidpoint" -> 0.50355, "bestResponse" -> {8, 4}, 
+  "FdotMidPoint" -> 0.045432469856191204|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 4, 4]) - 
+      BetaRegularized[F, 4, 4]) + BetaRegularized[F, 4, 4], 
+  "Fiterator" -> {F, 0.5075000000000001, 0.5834}, "Fmidpoint" -> 0.54545, 
+  "bestResponse" -> {7, 4}, "FdotMidPoint" -> -0.11381029153832567|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 4, 4]) - 
+      BetaRegularized[F, 4, 4]) + BetaRegularized[F, 4, 4], 
+  "Fiterator" -> {F, 0.5835, 0.6045}, "Fmidpoint" -> 0.5940000000000001, 
+  "bestResponse" -> {7, 4}, "FdotMidPoint" -> 0.00010028675524997865|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 5, 5]) - 
+      BetaRegularized[F, 5, 5]) + BetaRegularized[F, 5, 5], 
+  "Fiterator" -> {F, 0.6046, 0.6437}, "Fmidpoint" -> 0.62415, 
+  "bestResponse" -> {9, 5}, "FdotMidPoint" -> 0.06067326392031125|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 5, 4]) - 
+      BetaRegularized[F, 5, 4]) + BetaRegularized[F, 5, 4], 
+  "Fiterator" -> {F, 0.6438, 0.6739}, "Fmidpoint" -> 0.65885, 
+  "bestResponse" -> {8, 5}, "FdotMidPoint" -> -0.04960231998041964|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 5, 4]) - 
+      BetaRegularized[F, 5, 4]) + BetaRegularized[F, 5, 4], 
+  "Fiterator" -> {F, 0.674, 0.7212000000000001}, "Fmidpoint" -> 0.6976, 
+  "bestResponse" -> {8, 5}, "FdotMidPoint" -> 0.00004430207587846624|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 6, 4]) - 
+      BetaRegularized[F, 6, 4]) + BetaRegularized[F, 6, 4], 
+  "Fiterator" -> {F, 0.7213, 0.7358}, "Fmidpoint" -> 0.72855, 
+  "bestResponse" -> {9, 6}, "FdotMidPoint" -> -0.02504472400315705|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 6, 4]) - 
+      BetaRegularized[F, 6, 4]) + BetaRegularized[F, 6, 4], 
+  "Fiterator" -> {F, 0.7359, 0.7831}, "Fmidpoint" -> 0.7595000000000001, 
+  "bestResponse" -> {9, 6}, "FdotMidPoint" -> 0.000030727282309905846|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 7, 4]) - 
+      BetaRegularized[F, 7, 4]) + BetaRegularized[F, 7, 4], 
+  "Fiterator" -> {F, 0.7832, 0.8279000000000001}, "Fmidpoint" -> 0.80555, 
+  "bestResponse" -> {10, 7}, "FdotMidPoint" -> 0.004873280834242655|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 8, 4]) - 
+      BetaRegularized[F, 8, 4]) + BetaRegularized[F, 8, 4], 
+  "Fiterator" -> {F, 0.8280000000000001, 0.8624}, 
+  "Fmidpoint" -> 0.8452000000000001, "bestResponse" -> {11, 8}, 
+  "FdotMidPoint" -> 0.023676491669850863|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 9, 4]) - 
+      BetaRegularized[F, 9, 4]) + BetaRegularized[F, 9, 4], 
+  "Fiterator" -> {F, 0.8625, 0.8822000000000001}, 
+  "Fmidpoint" -> 0.8723500000000001, "bestResponse" -> {12, 9}, 
+  "FdotMidPoint" -> 0.03592827141671595|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 8, 3]) - 
+      BetaRegularized[F, 8, 3]) + BetaRegularized[F, 8, 3], 
+  "Fiterator" -> {F, 0.8823000000000001, 0.9012}, "Fmidpoint" -> 0.89175, 
+  "bestResponse" -> {10, 8}, "FdotMidPoint" -> -0.03197524421450715|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 8, 3]) - 
+      BetaRegularized[F, 8, 3]) + BetaRegularized[F, 8, 3], 
+  "Fiterator" -> {F, 0.9013, 0.9084000000000001}, "Fmidpoint" -> 0.90485, 
+  "bestResponse" -> {10, 8}, "FdotMidPoint" -> 0.00009900475358115557|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 9, 3]) - 
+      BetaRegularized[F, 9, 3]) + BetaRegularized[F, 9, 3], 
+  "Fiterator" -> {F, 0.9085000000000001, 0.9169}, 
+  "Fmidpoint" -> 0.9127000000000001, "bestResponse" -> {11, 9}, 
+  "FdotMidPoint" -> -0.013676120452307705|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 9, 3]) - 
+      BetaRegularized[F, 9, 3]) + BetaRegularized[F, 9, 3], 
+  "Fiterator" -> {F, 0.917, 0.9301}, "Fmidpoint" -> 0.9235500000000001, 
+  "bestResponse" -> {11, 9}, "FdotMidPoint" -> 0.000016492074708773785|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 10, 3]) - 
+      BetaRegularized[F, 10, 3]) + BetaRegularized[F, 10, 3], 
+  "Fiterator" -> {F, 0.9302, 0.9489000000000001}, 
+  "Fmidpoint" -> 0.9395500000000001, "bestResponse" -> {12, 10}, 
+  "FdotMidPoint" -> 0.0017301643670830646|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 11, 3]) - 
+      BetaRegularized[F, 11, 3]) + BetaRegularized[F, 11, 3], 
+  "Fiterator" -> {F, 0.9490000000000001, 0.9573}, "Fmidpoint" -> 0.95315, 
+  "bestResponse" -> {13, 11}, "FdotMidPoint" -> 0.012941576620616457|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 9, 2]) - 
+      BetaRegularized[F, 9, 2]) + BetaRegularized[F, 9, 2], 
+  "Fiterator" -> {F, 0.9574, 0.9665}, "Fmidpoint" -> 0.9619500000000001, 
+  "bestResponse" -> {10, 9}, "FdotMidPoint" -> -0.053588818358731194|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 10, 2]) - 
+      BetaRegularized[F, 10, 2]) + BetaRegularized[F, 10, 2], 
+  "Fiterator" -> {F, 0.9666, 0.9776}, "Fmidpoint" -> 0.9721, 
+  "bestResponse" -> {11, 10}, "FdotMidPoint" -> -0.04108899873721028|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 11, 2]) - 
+      BetaRegularized[F, 11, 2]) + BetaRegularized[F, 11, 2], 
+  "Fiterator" -> {F, 0.9777, 0.9883000000000001}, 
+  "Fmidpoint" -> 0.9830000000000001, "bestResponse" -> {12, 11}, 
+  "FdotMidPoint" -> -0.01982262124365808|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 12, 2]) - 
+      BetaRegularized[F, 12, 2]) + BetaRegularized[F, 12, 2], 
+  "Fiterator" -> {F, 0.9884000000000001, 0.9908}, "Fmidpoint" -> 0.9896, 
+  "bestResponse" -> {13, 12}, "FdotMidPoint" -> -0.0028050219685540334|>, 
+ <|"ODE" -> F*(1.5*(-1 + BetaRegularized[F, 12, 2]) - 
+      BetaRegularized[F, 12, 2]) + BetaRegularized[F, 12, 2], 
+  "Fiterator" -> {F, 0.9909, 0.995}, "Fmidpoint" -> 0.99295, 
+  "bestResponse" -> {13, 12}, "FdotMidPoint" -> 0.00006369808541650812|>, 
+ <|"ODE" -> F^10 + F*(-F^10 + 1.5*(-1 + F^10)), 
+  "Fiterator" -> {F, 0.9951000000000001, 0.9966}, 
+  "Fmidpoint" -> 0.9958500000000001, "bestResponse" -> {10, 10}, 
+  "FdotMidPoint" -> -0.06688288410073207|>, 
+ <|"ODE" -> F^11 + F*(-F^11 + 1.5*(-1 + F^11)), 
+  "Fiterator" -> {F, 0.9967, 0.9989}, "Fmidpoint" -> 0.9978, 
+  "bestResponse" -> {11, 11}, "FdotMidPoint" -> -0.05020149452265321|>, 
+ <|"ODE" -> F^12 + F*(-F^12 + 1.5*(-1 + F^12)), 
+  "Fiterator" -> {F, 0.999, 0.9999}, "Fmidpoint" -> 0.99945, 
+  "bestResponse" -> {12, 12}, "FdotMidPoint" -> -0.016895362148933835|>}
