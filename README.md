@@ -10,21 +10,21 @@ Below is an explanation of the contents of this repository and of the depencies 
 
 ## Scripts and notebooks
 
-The folder [`scripts`](scripts) contains code and notebooks for replicating the results of the paper. Instructions for how to replicate each figure are given in the notebooks below.
+The folder [`scripts`](scripts) contains code and notebooks for replicating the results of the paper. Instructions for how to replicate each figure are given in the notebooks below. Wherever a long calculation is done, the results of the long calculation are provided in the folder [`scripts/simulated_data`](scripts/simulated_data), and each notebook has code for both re-running the long calculation and for loading the results of the long calculation.
 
 ### Mathematica notebooks and Wolfram Language Code
 
-* [`figures_1_6.nb`](scripts/figures_1_6.nb) combines several datasets, runs some simulations of the model (for figure 6b), and creates figures 1 and 6;
+* [`figures_1_6.nb`](scripts/figures_1_6.nb) combines several datasets, runs some simulations of the model [for figure 6(b)], and creates figures 1 and 6;
 * [`figures_3_4.nb`](scripts/figures_3_4.nb) creates the phase portraits in figures 3 and 4;
 * [`figure5.nb`](scripts/figure5.nb) creates the phase diagram in figure 5;
-* [`figure2.key`](scripts/figure2.key) is a Keynote file containing figure 2;
+* [`figure2.key`](scripts/figure2.key) is a [Keynote](https://www.apple.com/keynote/) file containing figure 2;
 * [`set_strategies_that_could_be_best_response.wl`](scripts/set_strategies_that_could_be_best_response.wl) is a script in the Wolfram Language that computes the set of strategies that could be a best response and the chance of successfully producing. The notebook [`Explore the set of strategies that could be a best response.nb`](Explore the set of strategies that could be a best response.nb) contains a few examples of the set of strategies that could be a best response.
 
 **Dependencies**: The _Mathematica_ notebooks were made in version 11.0. They will work in version 10.4 as well. These notebooks can be viewed for free using the [Wolfram CDF player](https://www.wolfram.com/cdf-player/), available on Windows, Mac, and Linux, and they can be run for free in the [Wolfram Cloud](http://develop.wolframcloud.com/).
 
 ### Jupyter notebook and Python code 
 
-* The Jupyter notebook [`Make_Figure_7.ipynb`](scripts/Make_Figure_7.ipynb) contains the Python code used to create Figure 7. This notebook uses the following code written in Python for simulating the model:
+* The Jupyter notebook [`Figure_SI_1.ipynb`](scripts/Figure_SI_1.ipynb) contains the Python code used to create Figure SI-1. This notebook uses the following code written in Python for simulating the model:
 	* [`ABM.py`](scripts/ABM.py) defines an economy and agents;
 	* [`EconomySimulator.py`](scripts/EconomySimulator.py) (which is a wrapper for `ABM.Economy` that simulates the economy and collects information about it).
 
@@ -32,7 +32,7 @@ The folder [`scripts`](scripts) contains code and notebooks for replicating the 
 
 ## Figures
 
-The folder [`figures`](figures) contains the seven figures as PDF files. It also contains the figure [`compare_std_dev_F.pdf`](figures/compare_std_dev_F.pdf) made at the end of the Jupyter notebook [`Make_Figure_7.ipynb`](scripts/Make_Figure_7.ipynb), which illustrates the difference in standard deviations of 200 simulated time-series like those shown in Figure 7(b).
+The folder [`figures`](figures) contains the seven figures as PDF files. It also contains the figure [`compare_std_dev_F.pdf`](figures/compare_std_dev_F.pdf) made at the end of the Jupyter notebook [`Figure_SI_1.ipynb`](scripts/Figure_SI_1.ipynb), which illustrates the difference in standard deviations of 200 simulated time-series like those shown in Figure SI-1(b).
 
 ## Empirical data
 
@@ -40,4 +40,11 @@ Empirical datasets are located in the folder [`empirical_data`](empirical_data).
 
 ## Simulated data
 
-Data generated from simulating the model was exported into the folder [`scripts/simulated_data`](scripts/simulated_data) by the notebooks [`figures_3_4.nb`](scripts/figures_3_4.nb), [`figures_5.nb`](scripts/figures_5.nb), [`figures_1_6.nb`](scripts/figures_1_6.nb), and [`Make_Figure_7.ipynb`](scripts/Make_Figure_7.ipynb) (all these notebooks are located in the [`scripts`](scripts) folder). 
+Data generated from simulating the model was exported into the folder [`scripts/simulated_data`](scripts/simulated_data) by the notebooks 
+
+* [`figures_3_4.nb`](scripts/figures_3_4.nb)
+* [`figures_5.nb`](scripts/figures_5.nb)
+* [`figures_1_6.nb`](scripts/figures_1_6.nb)
+* [`Figure_SI_1.ipynb`](scripts/Figure_SI_1.ipynb) 
+
+All these notebooks are located in the [`scripts`](scripts) folder.

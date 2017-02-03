@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    107585,       2578]
-NotebookOptionsPosition[    105450,       2499]
-NotebookOutlinePosition[    105806,       2515]
-CellTagsIndexPosition[    105763,       2512]
+NotebookDataLength[    107663,       2575]
+NotebookOptionsPosition[    105529,       2496]
+NotebookOutlinePosition[    105885,       2512]
+CellTagsIndexPosition[    105842,       2509]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -631,7 +631,7 @@ Cell[BoxData[{
          RowBox[{"#", ",", 
           RowBox[{"{", 
            RowBox[{
-            RowBox[{"FontSize", "\[Rule]", "14"}], ",", 
+            RowBox[{"FontSize", "\[Rule]", "10"}], ",", 
             RowBox[{"FontFamily", "\[Rule]", "font"}]}], "}"}]}], "]"}], 
         "&"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]", 
       RowBox[{"(*", " ", 
@@ -931,14 +931,18 @@ Cell[BoxData[{
 StyleBox[\"F\",
 FontSlant->\"Italic\"]\)(\!\(\*
 StyleBox[\"t\",
-FontSlant->\"Italic\"]\)) \[Congruent] fraction of functional agents at time \
-\!\(\*
+FontSlant->\"Italic\"]\)) \[Congruent] frac. functional agents at time \!\(\*
 StyleBox[\"t\",
 FontSlant->\"Italic\"]\)\>\"", ",", 
               RowBox[{
               "whatToPlot", "<>", "\"\< \[Congruent] \>\"", "<>", 
                "descriptionWhatToPlot"}]}], "}"}], "]"}]}], ")"}]}], ",", 
-        RowBox[{"ImageSize", "\[Rule]", "Medium"}], ",", 
+        RowBox[{"ImageSize", "\[Rule]", 
+         RowBox[{
+          FractionBox["3.41", "3.44"], " ", 
+          RowBox[{"{", 
+           RowBox[{"8.7", " ", "*", 
+            RowBox[{"72", "/", "2.54"}]}], "}"}]}]}], ",", 
         RowBox[{"PlotRange", "\[Rule]", "Full"}], ",", 
         RowBox[{"PlotLabel", "\[Rule]", 
          RowBox[{"If", "[", 
@@ -1399,7 +1403,9 @@ FontSlant->\"Italic\"], \"*\"]\)\>\"", ",", "\"\< = \>\""}], "}"}], ",",
    3.694362564388967*^9, 3.6943625645453568`*^9}, {3.694362660838191*^9, 
    3.694362677226845*^9}, 3.694363281637747*^9, {3.694434545387912*^9, 
    3.6944346054855413`*^9}, {3.69443467033675*^9, 3.69443467851241*^9}, 
-   3.694811685799272*^9}]
+   3.694811685799272*^9, {3.694977740203363*^9, 3.694977746545752*^9}, {
+   3.6949781224896517`*^9, 3.694978122630855*^9}, {3.694978856028821*^9, 
+   3.694978863780199*^9}}]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -1438,12 +1444,6 @@ Cell[BoxData[
        RowBox[{"\"\<showColorLegend\>\"", "\[Rule]", "False"}], ",", 
        RowBox[{"\"\<bestResponsesWithm\[Tau]EqualsOutFront\>\"", "\[Rule]", 
         RowBox[{"{", 
-         RowBox[{"(*", 
-          RowBox[{
-           RowBox[{"{", 
-            RowBox[{"2", ",", "1"}], "}"}], ",", 
-           RowBox[{"{", 
-            RowBox[{"1", ",", "1"}], "}"}], ","}], "*)"}], 
          RowBox[{"{", 
           RowBox[{"0", ",", "0"}], "}"}], "}"}]}], ",", 
        RowBox[{"\"\<bestResponsesWithm\[Tau]EqualsAbove\>\"", "\[Rule]", 
@@ -1454,8 +1454,8 @@ Cell[BoxData[
           RowBox[{"{", 
            RowBox[{"1", ",", "1"}], "}"}]}], "}"}]}], ",", 
        RowBox[{"\"\<fontSizeShift\>\"", "\[Rule]", 
-        RowBox[{"-", "1"}]}], ",", 
-       RowBox[{"\"\<fontSizeExponent\>\"", "\[Rule]", "1.20"}], ",", 
+        RowBox[{"-", "2.5"}]}], ",", 
+       RowBox[{"\"\<fontSizeExponent\>\"", "\[Rule]", "1.15"}], ",", 
        RowBox[{"\"\<showPlotLabel\>\"", "\[Rule]", "False"}], ",", 
        RowBox[{"AspectRatio", "\[Rule]", ".8"}]}], "]"}]}], ";", 
     "\[IndentingNewLine]", "\[IndentingNewLine]", 
@@ -1519,7 +1519,8 @@ Cell[BoxData[
             RowBox[{"{", 
              RowBox[{"F", ",", ".7", ",", ".9", ",", ".075"}], "}"}]}], 
            "]"}]}], "]"}], "\[IndentingNewLine]", "}"}]}]}], "]"}]}]}], 
-  "]"}]], "Input"],
+  "]"}]], "Input",
+ CellChangeTimes->{{3.6949798646661167`*^9, 3.694979864777986*^9}}],
 
 Cell[BoxData[
  GraphicsBox[InsetBox[
@@ -1644,8 +1645,8 @@ e++ddM3P2l3z3ZVzLd+q8S32Pd3zXtqe7mHL0v3q3f8D3L7ZGQ==
           StyleBox[
           "\"\\!\\(\\*SuperscriptBox[\\n \
 StyleBox[\\\"m\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\),\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1653,22 +1654,22 @@ StyleBox[\\\"m\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\),\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox[
           "\"\\!\\(\\*SuperscriptBox[\\n \
 StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox["\" = \"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox["0", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1676,12 +1677,12 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False], 
           StyleBox["0", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           16.769336928223957`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.20500000000000002`, 0.091}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 13.26164667960553,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {
+      0.20500000000000002`, 0.091}], 
      InsetBox[
       BoxData[
        FormBox[
@@ -1692,7 +1693,7 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               "\"\\!\\(\\*SuperscriptBox[\\n \
 StyleBox[\\\"m\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\),\"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox[
                InterpretationBox[
                 StyleBox[
@@ -1701,23 +1702,22 @@ StyleBox[\\\"m\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\),\"",
                   Baseline], "CacheGraphics" -> False], 
                 Spacer[1.2]], 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox[
               "\"\\!\\(\\*SuperscriptBox[\\n \
 StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox["\" = \"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False]}, "RowDefault"]}, {
-           
+               13.26164667960553, StripOnInput -> False]}, "RowDefault"]}, {
             TemplateBox[{
               StyleBox["1", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox["\",\"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox[
                InterpretationBox[
                 StyleBox[
@@ -1726,10 +1726,10 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
                   Baseline], "CacheGraphics" -> False], 
                 Spacer[1.2]], 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox["1", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False]}, "RowDefault"]}}, 
+               13.26164667960553, StripOnInput -> False]}, "RowDefault"]}}, 
           GridBoxAlignment -> {"Columns" -> {{Center}}}, DefaultBaseStyle -> 
           "Column", 
           GridBoxItemSize -> {
@@ -1745,7 +1745,7 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               "\"\\!\\(\\*SuperscriptBox[\\n \
 StyleBox[\\\"m\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\),\"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox[
                InterpretationBox[
                 StyleBox[
@@ -1754,23 +1754,22 @@ StyleBox[\\\"m\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\),\"",
                   Baseline], "CacheGraphics" -> False], 
                 Spacer[1.2]], 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox[
               "\"\\!\\(\\*SuperscriptBox[\\n \
 StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox["\" = \"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False]}, "RowDefault"]}, {
-           
+               13.26164667960553, StripOnInput -> False]}, "RowDefault"]}, {
             TemplateBox[{
               StyleBox["2", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox["\",\"", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox[
                InterpretationBox[
                 StyleBox[
@@ -1779,10 +1778,10 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
                   Baseline], "CacheGraphics" -> False], 
                 Spacer[1.2]], 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False], 
+               13.26164667960553, StripOnInput -> False], 
               StyleBox["1", 
                GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-               16.769336928223957`, StripOnInput -> False]}, "RowDefault"]}}, 
+               13.26164667960553, StripOnInput -> False]}, "RowDefault"]}}, 
           GridBoxAlignment -> {"Columns" -> {{Center}}}, DefaultBaseStyle -> 
           "Column", 
           GridBoxItemSize -> {
@@ -1793,11 +1792,11 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
        FormBox[
         TemplateBox[{
           StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           14.848931924611133`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 11.62537544622754,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           14.848931924611133`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 11.62537544622754,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1805,22 +1804,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           14.848931924611133`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 11.62537544622754,
+            StripOnInput -> False], 
           StyleBox["1", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           14.848931924611133`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.116, 0.352}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 11.62537544622754,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.116,
+       0.352}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["4", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["\",\"", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1829,21 +1828,21 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["1", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False]}, "RowDefault"], 
+           10.013502532843182`, StripOnInput -> False]}, "RowDefault"], 
         TraditionalForm]], {0.089, 0.262}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1851,22 +1850,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["2", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.088, 0.489}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.088,
+       0.489}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1874,22 +1873,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["2", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.10500000000000001`, 0.5660000000000001}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {
+      0.10500000000000001`, 0.5660000000000001}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["8", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1897,22 +1896,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.084,
-       0.549}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.084, 0.549}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["7", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1920,22 +1919,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.093,
-       0.612}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.093, 0.612}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["9", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1943,22 +1942,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.084,
-       0.634}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.084, 0.634}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["4", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["\",\"", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1967,21 +1966,21 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["2", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False]}, "RowDefault"], 
+           10.013502532843182`, StripOnInput -> False]}, "RowDefault"], 
         TraditionalForm]], {0.128, 0.682}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -1989,22 +1988,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.10600000000000001`, 0.6900000000000001}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {
+      0.10600000000000001`, 0.6900000000000001}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["8", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2012,22 +2011,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.092,
-       0.6890000000000001}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.092, 0.6890000000000001}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["9", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2035,22 +2034,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.09, 
-      0.741}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.09, 0.741}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["7", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2058,22 +2057,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {
-      0.10500000000000001`, 0.758}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.10500000000000001`, 0.758}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2081,22 +2080,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.126, 0.78}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.126,
+       0.78}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["3", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["\",\"", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2105,21 +2104,21 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["2", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False]}, "RowDefault"], 
+           10.013502532843182`, StripOnInput -> False]}, "RowDefault"], 
         TraditionalForm]], {0.167, 0.8130000000000001}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["10", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2127,22 +2126,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.088,
-       0.781}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.088, 0.781}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["8", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2150,22 +2149,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.101,
-       0.807}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.101, 0.807}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2173,22 +2172,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.122, 0.843}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.122,
+       0.843}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["9", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2196,22 +2195,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.097,
-       0.842}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.097, 0.842}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["4", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["\",\"", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2219,21 +2218,21 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["3", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False]}, "RowDefault"], 
+           10.013502532843182`, StripOnInput -> False]}, "RowDefault"], 
         TraditionalForm]], {0.159, 0.899}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["7", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2241,22 +2240,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.115,
-       0.881}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.115, 0.881}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["8", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2264,22 +2263,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.108,
-       0.905}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.108, 0.905}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2287,22 +2286,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False], 
           StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.14400000000000002`, 0.936}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {
+      0.14400000000000002`, 0.936}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["9", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2310,22 +2309,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["7", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {
-      0.10200000000000001`, 0.922}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.10200000000000001`, 0.922}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["2", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["\",\"", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2334,21 +2333,21 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False], 
+           10.013502532843182`, StripOnInput -> False], 
           StyleBox["2", 
            GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           12.966610165238235`, StripOnInput -> False]}, "RowDefault"], 
+           10.013502532843182`, StripOnInput -> False]}, "RowDefault"], 
         TraditionalForm]], {0.22000000000000003`, 0.967}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2356,22 +2355,22 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["5", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.132,
-       0.9540000000000001}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.132, 0.9540000000000001}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["7", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
             StyleBox[
@@ -2379,44 +2378,21 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
           StyleBox["6", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.121,
-       0.966}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.121, 0.966}], 
      InsetBox[
       BoxData[
        FormBox[
         TemplateBox[{
           StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
-          StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
-          StyleBox[
-           InterpretationBox[
-            StyleBox[
-             
-             GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
-              Baseline], "CacheGraphics" -> False], 
-            Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False], 
-          StyleBox["3", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
-           11.125732532083184`, StripOnInput -> False]}, "RowDefault"], 
-        TraditionalForm]], {0.182, 0.986}], 
-     InsetBox[
-      BoxData[
-       FormBox[
-        TemplateBox[{
-          StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
             StripOnInput -> False], 
           StyleBox["\",\"", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
             StripOnInput -> False], 
           StyleBox[
            InterpretationBox[
@@ -2425,12 +2401,35 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
              GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
               Baseline], "CacheGraphics" -> False], 
             Spacer[1.2]], 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
             StripOnInput -> False], 
+          StyleBox["3", 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 8.428322054035162,
+            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.182,
+       0.986}], 
+     InsetBox[
+      BoxData[
+       FormBox[
+        TemplateBox[{
           StyleBox["4", 
-           GrayLevel[1], FontFamily -> "Arial", FontSize -> 9.330412131161864,
-            StripOnInput -> False]}, "RowDefault"], TraditionalForm]], {0.156,
-       0.992}], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
+          StyleBox["\",\"", 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
+          StyleBox[
+           InterpretationBox[
+            StyleBox[
+             
+             GraphicsBox[{}, ImageSize -> {1.2, 0}, BaselinePosition -> 
+              Baseline], "CacheGraphics" -> False], 
+            Spacer[1.2]], 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False], 
+          StyleBox["4", 
+           GrayLevel[1], FontFamily -> "Arial", FontSize -> 
+           6.8726574760592225`, StripOnInput -> False]}, "RowDefault"], 
+        TraditionalForm]], {0.156, 0.992}], 
      GrayLevel[1], 
      Arrowheads[0.02], 
      ArrowBox[{{0.22, 0.3}, {0.22, 0.25}}], {
@@ -2460,24 +2459,24 @@ StyleBox[\\\"\[Tau]\\\",\\nFontSlant->\\\"Italic\\\"], \\\"*\\\"]\\)\"",
     FormBox[
      StyleBox[
      "\"\[Alpha] \[Congruent] cost of each attempted input\"", {
-      FontSize -> 14, FontFamily -> "Arial"}, StripOnInput -> False], 
+      FontSize -> 10, FontFamily -> "Arial"}, StripOnInput -> False], 
      TraditionalForm], 
     FormBox[
      StyleBox[
      "\"\\!\\(\\*\\nStyleBox[\\\"F\\\",\\nFontSlant->\\\"Italic\\\"]\\)(\\!\\(\
-\\*\\nStyleBox[\\\"t\\\",\\nFontSlant->\\\"Italic\\\"]\\)) \[Congruent] \
-fraction of functional agents at time \
+\\*\\nStyleBox[\\\"t\\\",\\nFontSlant->\\\"Italic\\\"]\\)) \[Congruent] frac. \
+functional agents at time \
 \\!\\(\\*\\nStyleBox[\\\"t\\\",\\nFontSlant->\\\"Italic\\\"]\\)\"", {
-      FontSize -> 14, FontFamily -> "Arial"}, StripOnInput -> False], 
+      FontSize -> 10, FontFamily -> "Arial"}, StripOnInput -> False], 
      TraditionalForm]},
   FrameTicksStyle->Directive[
     GrayLevel[0.5], FontFamily -> "Arial"],
-  ImageSize->Medium,
+  ImageSize->{244.46346822926205`},
   PlotLabel->None,
   PlotRange->{{0.08, 0.279}, {0., 1.}},
   PlotRangeClipping->True,
   PlotRangePadding->None]], "Output",
- CellChangeTimes->{3.69443541964159*^9}]
+ CellChangeTimes->{3.6949801766686363`*^9}]
 }, Open  ]],
 
 Cell[BoxData[
@@ -2488,9 +2487,7 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{"figuresDirectory", ",", "\"\<figure5_revision.pdf\>\""}], 
       "}"}], "]"}], ",", "%"}], "]"}], ";"}]], "Input",
- CellChangeTimes->{{3.6943621607545767`*^9, 3.6943621767695932`*^9}, {
-  3.694363904819481*^9, 3.694363905569491*^9}, {3.694811665542549*^9, 
-  3.694811671748921*^9}}]
+ CellChangeTimes->{{3.69498496909477*^9, 3.694984970904826*^9}}]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
@@ -2565,16 +2562,16 @@ Cell[11866, 341, 8877, 218, 658, "Input",
 }, Closed]],
 Cell[CellGroupData[{
 Cell[20780, 564, 215, 5, 29, "Subsubsection"],
-Cell[20998, 571, 38634, 830, 2773, "Input",
+Cell[20998, 571, 38941, 836, 2812, "Input",
  InitializationCell->True]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[59669, 1406, 106, 1, 29, "Subsubsection"],
+Cell[59976, 1412, 106, 1, 29, "Subsubsection"],
 Cell[CellGroupData[{
-Cell[59800, 1411, 4363, 110, 369, "Input"],
-Cell[64166, 1523, 40793, 956, 317, "Output"]
+Cell[60107, 1417, 4230, 105, 369, "Input"],
+Cell[64340, 1524, 40801, 954, 223, "Output"]
 }, Open  ]],
-Cell[104974, 2482, 412, 10, 32, "Input"]
+Cell[105156, 2481, 309, 8, 32, "Input"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
